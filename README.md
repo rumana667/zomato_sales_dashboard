@@ -90,6 +90,5 @@ Growth Opportunities: Pinpoint underserved regions for expansion
 
 📁 Dashboard Preview Images:
 
-![Zomato Dashboard 1](./Snapshot_1 of Zomato Dashboard.png)  
-![Zomato Dashboard 2](./Snapshot_2.png)  
-![Zomato Dashboard 3](./Snapshot_3.png)  
+Overview : (https://github.com/rumana667/zomato_sales_dashboard/blob/main/Snapshot_1%20of%20Zomato%20Dashboard.png)
+User performance : ()
