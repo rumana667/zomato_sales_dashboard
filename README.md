@@ -95,3 +95,5 @@ Overview : (https://github.com/rumana667/zomato_sales_dashboard/blob/main/Snapsh
 User performance : (https://github.com/rumana667/zomato_sales_dashboard/blob/main/Snapshot_2.png)
 
 City performance : (https://github.com/rumana667/zomato_sales_dashboard/blob/main/Snapshot_3.png)
+
+-> Note: Due to GitHub’s file size limitations, the actual .pbix file is not uploaded. Please refer to the snapshots and description below for full project details.
